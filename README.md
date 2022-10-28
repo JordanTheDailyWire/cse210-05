@@ -1,7 +1,7 @@
 # Cycle
 Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them. It's just like tron, trying to cut off the other player with the only space you got. Cycle can be a fun game or a really hard game. Find out for yourself.
 
-+ Rules
+# Rules
 Cycle is played according to the following rules.
 Players can move up, down, left and right...
 Player one moves using the W, S, A and D keys.
@@ -16,7 +16,7 @@ Players keep moving and turning but don't run into each other.
 # Getting Started
 Python 3.8.0 must be installed and running on your machine. Open a terminal and find the root folder. Type the following command to start the game.
 
-python3 greed_game
+python3 cycle_game
 
 # Project Structure
 The project is structured as followed.
