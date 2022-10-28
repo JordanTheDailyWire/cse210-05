@@ -1,0 +1,14 @@
+COLUMNS = 40
+ROWS = 20
+CELL_SIZE = 15
+MAX_X = 900
+MAX_Y = 600
+FRAME_RATE = 15
+FONT_SIZE = 15
+CAPTION = "Snake"
+font_size = 15
+snake_length = 8
+WHITE = [255,255,255]
+RED = [255,0,0]
+GREEN = [0,255,0]
+BLACK = [0,0,0]
